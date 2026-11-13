@@ -164,10 +164,7 @@ Retail-Store-Sales-Data-Cleansing/
 │   └── cleaned_retail_store_sales.xlsx
 │
 ├── Documentation/
-│   └── Data Cleansing Retail Store Sales.pdf
-│
-└── Images/
-    └── project_screenshots/
+│   └── Data Cleansing Retail Store Sales - Tumpal Divito Siregar.pdf
 ```
 
 *Note: Adjust the folder and file names according to the actual contents of your GitHub repository.*
